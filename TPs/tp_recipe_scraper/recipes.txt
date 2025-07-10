@@ -1,0 +1,448 @@
+[
+  {
+    "titre": "Carottes vichy",
+    "instructions": "Eplucher (gratter) les carottes et couper-les en petites rondelles.\nDans une casserole, préparer un bouillon de poulet. La quantité d'eau doit être suffisante pour recouvrir les carottes.\nDans une poêle, faire fondre le beurre puis, ajouter le sucre. Remuer jusqu'à obtention d'une légère \"mousse\", et ajouter les carottes. Remuer un peu puis, y ajouter le bouillon (les carottes doivent être recouvertes).\nLaisser à petit feu sans couvrir afin de permettre à l'eau de s'évaporer pendant 20/25 minutes.",
+    "ingredients": [
+      "12 carottes (comptez-en 3 par personne environ)",
+      "50 g de beurre",
+      "15 g de sucre",
+      "1 cubes de bouillon de poule"
+    ],
+    "nutrients": {}
+  },
+  {
+    "titre": "Mille feuilles",
+    "instructions": "Abaisser la pâte feuilletée sur environ 3 mm. Tailler des rectangles de taille égale. La piquer à la fourchette pour qu'elle ne gonfle pas puis la mettre au four sur 6, soit 180°C.\nPendant ce temps, préparer la crème pâtissière : Mettre le lait à bouillir.\nPendant ce temps, mélanger dans un saladier l'oeuf, le sucre, le sucre vanillé et la farine.\nLorsque le lait est à ébullition, le verser immédiatement dans le saladier.\nRemettre à cuire dans la casserole pendant quelques minutes afin que le liquide prenne la consistance d'une crème.\nEtaler la crème pâtissière sur une première couche de pâte, puis faire de même avec une seconde. Les assembler.\nAttendre que le gâteau soit froid pour étaler au pinceau le glacage, fait avec beaucoup de sucre glace mélangé à un peu d'eau. Réaliser un dessin avec le reste du glacage, mélangé à un carreau de chocolat fondu.\nC'est prêt !",
+    "ingredients": [
+      "500 g de pâte feuilletée",
+      "1 oeufs",
+      "1/4 l de lait",
+      "50 g de sucre",
+      "35 g de farine",
+      "1 sachets de sucre vanillé",
+      "sucre glace",
+      "1 chocolat"
+    ],
+    "nutrients": {}
+  },
+  {
+    "titre": "Gratin Dauphinois",
+    "instructions": "Eplucher, laver et couper les pommes de terre en rondelles fines (NB : ne pas les laver APRES les avoir coupées, car l'amidon est nécessaire à une consistance correcte).\nHacher l'ail très finement.\nPorter à ébullition dans une casserole le lait, l'ail, le sel, le poivre et la muscade puis y plonger les pommes de terre et laisser cuire 10 à 15 min, selon leur fermeté.\nPréchauffer le four à 180°C (thermostat 6) et beurrer un plat à gratin à l'aide d'une feuille de papier essuie-tout.\nPlacer les pommes de terre égouttées dans le plat. Les recouvrir de crème, puis disposer des petites noix de beurre sur le dessus.\nEnfourner pour 50 min à 1 heure de cuisson. Utiliser le lait restant de la cuisson des pommes de terre pour faire une soupe ou une purée dans la foulée.",
+    "ingredients": [
+      "1.5 kg de pomme de terre",
+      "2 gousses d'ail",
+      "30 cl de crème",
+      "100 g de beurre",
+      "1 l de lait",
+      "muscade",
+      "sel",
+      "poivre"
+    ],
+    "nutrients": {}
+  },
+  {
+    "titre": "Bugnes",
+    "instructions": "Mélanger dans le robot ménager la farine, la pincée de sel, la levure, le sucre et le sucre vanillé.\nAjouter l'oeuf, le beurre fondu... et pour finir, le zeste de citron, le rhum et le 1/2 verre de lait.\nTravailler la pâte jusqu'à l'obtention d'une boule. La pâte doit être élastique : si elle est trop molle rajouter un peu de farine ; si elle est trop dure rajouter un peu de lait.\nLaisser reposer la pâte 1/2 heure.\nAbaisser la pâte sur une épaisseur de 5 mm. Détailler en bandes de 10 cm sur 4 cm et pratiquer une incision sur 5 cm au centre.\nPlonger les bugnes dans la friture, les retourner 1 fois et les égoutter sur du papier absorbant.\nSaupoudrer de sucre glace et servir chaud.",
+    "ingredients": [
+      "250 g de farine",
+      "1 oeufs",
+      "1.5 cuillères à soupe de sucre .",
+      "1/2 sachets de levure",
+      "1/2 sachets de sucre vanillé",
+      "1.5 cuillères à soupe de rhum",
+      "8 cl de lait",
+      "1 pincées de sel",
+      "75 g de beurre fondu",
+      "1 zestes de citron"
+    ],
+    "nutrients": {}
+  },
+  {
+    "titre": "Cookies maison",
+    "instructions": "Détailler le chocolat en pépites.\nPréchauffer le four à 180°C (thermostat 6). Dans un saladier, mettre 75 g de beurre, le sucre, l'oeuf entier, la vanille et mélanger le tout avec une cuillère en bois.\nAjouter petit à petit la farine mélangée à la levure, le sel et le chocolat.\nAvec une feuille de papier essuie-tout, beurrer une plaque allant au four et former les cookies sur la plaque.\nPour former les cookies, utiliser 2 cuillères à soupe et faire des petits tas espacés les uns des autres; ils grandiront à la cuisson.\nEnfourner pour 10 minutes de cuisson.",
+    "ingredients": [
+      "85 g de beurre tendre",
+      "1 oeufs",
+      "85 g de sucre",
+      "vanille ou 1 sachet de sucre vanillé",
+      "150 g de farine",
+      "100 g de chocolat noir",
+      "1 cuillères à café de sel",
+      "1 cuillères à café de levure chimique"
+    ],
+    "nutrients": {}
+  },
+  {
+    "titre": "Coq au vin maison",
+    "instructions": "La veille : mettez le coq à mariner : placez-le dans un grand saladier avec l'oignon et les carottes. Versez le vin, posez le bouquet garni et ajoutez les grains de poivres.\nCouvrez et laissez mariner une nuit au réfrigérateur. (ou toute la journée si c'est pour le soir).\nLe jour même : égouttez les morceaux de coq et les légumes, épongez-les bien avec du papier absorbant.\nFiltrez la marinade et réservez.\nFaites chauffez l'huile dans une cocotte, jetez-y les morceaux de coq et laissez-les bien dorer sur toutes les faces.\nRetirez-les de la cocotte une fois dorés, mettez les légumes à la place. Laissez-les revenir à feu doux 5 minutes. Saupoudrez le tout de farine, remuez pour bien enrober les légumes.\nRemettez les morceaux de coq dans la cocotte, ajoutez les gousses d'ail écrasées. Faites chauffer le cognac, versez-le et flambez.\nMouillez le tout avec le vin de la marinade, ajoutez le fond de veau, salez et poivrez. Portez à ébullition, puis couvrez et baissez le feu. Laissez mijoter 2 h 30 à feu doux.\nEmincez les champignons. Faites-les dorer dans une poêle avec les lardons pendant environ 5-10 minutes. Rajoutez-les dans la cocotte 15 minutes avant de servir. Goûtez et rectifiez l'assaisonnement.",
+    "ingredients": [
+      "1 coqs d'environ 3 kg coupé en morceaux",
+      "1 bouteilles de vin rouge corsé",
+      "250 g de lardons",
+      "250 g de champignons de Paris",
+      "1 oignons émincé",
+      "2 carottes coupées en rondelles",
+      "2 gousses d'ail",
+      "1 bouquets garnis",
+      "1 cuillères à soupe de poivre",
+      "50 cl de fond de veau",
+      "5 cl de cognac",
+      "3 cuillères à soupe d'huile",
+      "1 cuillères à soupe de farine",
+      "poivre",
+      "sel"
+    ],
+    "nutrients": {}
+  },
+  {
+    "titre": "Tartiflette facile",
+    "instructions": "Cuire les pommes de terre à l’eau pendant 20 minutes, puis les éplucher et les couper en rondelles.\nEmincer les oignons et les faire revenir dans un peu de beurre.\nAjouter les lardons fumés et laisser également revenir à feu assez doux (une dizaine de minutes) en remuant régulièrement.\nPréparer un plat de cuisson (j’utilise un plat rond en terre cuite de 40 cm de diamètre, 10 cm de haut). Frotter généreusement le fond du plat avec une gousse d’ail.\nOrganiser le plat en trois couches : recouvrir le fond du plat de la moitié des pommes de terre, puis ajouter le mélange oignons et lardons, ajouter enfin par dessus le reste des pommes de terre.\nVerser dessus le vin blanc et la crème fleurette. Poivrer (assez copieusement) et saler (légèrement).\nPréchauffer le four à 190°C (thermostat 6-7).\nGratter les reblochons, les couper en deux dans l'épaisseur et les poser (côté croûte en haut) sur le dessus des pommes de terre.\nEnfourner environ 20 minutes (je mets le four en « chaleur tournante » + gril). Au moment de servir (dans le plat de cuisson), on peut saupoudrez d’un peu de persil haché. Ce plat unique se déguste (c’est le mot juste !) accompagné du vin utilisé pour la recette.",
+    "ingredients": [
+      "2.5 kg de pomme de terre",
+      "2 reblochons",
+      "7 oignons",
+      "20 cl de vin blanc de Savoie (Apremont si possible)",
+      "30 cl de crème fleurette",
+      "500 g de lardons fumés",
+      "sel",
+      "poivre"
+    ],
+    "nutrients": {}
+  },
+  {
+    "titre": "Spaghetti bolognaise",
+    "instructions": "Hachez l'ail, l'oignon, puis coupez la carotte et le céleri en petits dés (enlevez les principales nervures du céleri).\nFaites chauffer l'huile dans une casserole assez grande. Faites revenir l'ail, l'oignon, la carotte et le céleri à feu doux pendant 5 min en remuant.\nAugmenter la flamme, puis ajoutez le boeuf. Faites brunir et remuez de façon à ce que la viande ne fasse pas de gros paquets.\nAjoutez le bouillon, le vin rouge, les tomates préalablement coupées assez grossièrement, le sucre et le persil haché. Portez à ébullition.\nBaisser ensuite le feu et laissez mijoter à couvert 1h à 1h30, de façon à ce que le vin s'évapore.\nFaites cuire les spaghetti, puis mettez-les dans un plat.\nAjoutez la sauce bolognaise.",
+    "ingredients": [
+      "500 g de spaghetti",
+      "1 oignons",
+      "2 gousses d'ail",
+      "1 carottes",
+      "1 branches de céleri",
+      "850 g de tomate (fraîches ou en boîte selon la saison)",
+      "37.5 ml de vin rouge",
+      "500 g de boeuf haché",
+      "50 cl de bouillon",
+      "persil",
+      "1 cuillères à café de sucre",
+      "2 cuillères à soupe d'huile"
+    ],
+    "nutrients": {}
+  },
+  {
+    "titre": "La poule au riz de la mère Michèle",
+    "instructions": "Mettre la poule dans un autocuiseur (celui-ci rendra la poule plus moelleuse). L'arroser avec le vin blanc.\nAjouter les carottes coupées en rondelles, le poireau émincé, 1 oignon entier piqué des 3 clous de girofle, l'ail et le bouquet garni.\nRajouter de l'eau à hauteur de la poule. Fermer l'autocuiseur et compter 45 minutes de cuisson.\nA la fin de la cuisson, sortir la poule et la placer dans un plat. Filtrez le jus de cuisson et réservez-le.\nDans une sauteuse, faire fondre 25g de beurre. Dès que celui-ci est fondu, versez la farine en remuant énergiquement pour éviter la formation de petits grumeaux.\nVersez petit à petit du jus de cuisson de la poule pour former une sauce onctueuse. Rectifiez l'assaisonement.\nAjoutez la crème fraîche et la poule que vous aurez coupée en beaux morceaux. Laisser mijoter à petit feu.\nPendant ce temps, faites fondre 25 g de beurre dans une cocotte qui va au four. (Faites chauffer celui-ci thermostat 9). Ajoutez un oignon émincé et faites dorer doucement.\nQuand l'oignon à une belle couleur, ajoutez du thym. Remuez. Versez le riz et remuez. Le riz doit prendre une belle couleur.\nAjoutez du jus de cuisson (2 fois 1/2 le volume de riz ). Amenez à ébullition et mettre au four pendant 18 minutes à 180°C (thermostat 6). Pas une minute de plus!\nServez la poule avec le riz. Et bon appétit.",
+    "ingredients": [
+      "1 poules bien charnue",
+      "1 l de vin blanc sec",
+      "2 carottes",
+      "1 poireaux",
+      "2 oignons",
+      "3 clous de girofle",
+      "2 gousses d'ail",
+      "1 bouquets garnis (thym, laurier, persil)",
+      "poivre",
+      "sel",
+      "poivre de Cayenne",
+      "25 cl de crème fraîche épaisse",
+      "50 g de beurre",
+      "50 g de farine",
+      "2 verres de riz (1/2 verre par personne, verre à moutarde)"
+    ],
+    "nutrients": {}
+  },
+  {
+    "titre": "Cacasse à cul nu (Ardennes)",
+    "instructions": "Dans une cocotte en fonte, faire revenir à feu moyen une belle tranche de lard par convive. Lorsque le lard est doré, le retirer de la cocotte et réserver. Ajouter de l'huile et augmenter le feu.\nFaire rôtir les pommes de terre entières ou coupées en deux selon la taille. Lorsque celles-ci sont dorées (pas noires), les retirer de la cocotte et réserver.\nAjouter les oignons coupés en rondelles, éventuellement un peu d'huile, et faire blondir à feu moyen. Ajouter de la farine et faire un roux en grattant bien le fond de la cocotte.\nRemettre les pommes de terre, mouiller pour juste couvrir les légumes. Ajouter une branche de thym, une feuille de laurier, deux ou trois gousses d'ail, sel et poivre.\nLaisser cuire à feu doux pendant 45 mn environ, puis remettre dans la cocotte les tranches de lard. Juste avant de servir, parsemer le plat de persil frais et rectifier l'assaisonnement.\nLa cacasse peut être servie avec une viande de porc, des saucisses ou des blanc de poulet cuits avec les pommes de terre. Elle peut être avantageusement accompagnée d'une salade fraîche.",
+    "ingredients": [
+      "1 kg de pomme de terre longues à chair ferme",
+      "4 belles tranches de lard maigre",
+      "2 oignons",
+      "cuillère à soupe d'huile (ou de saindoux)",
+      "2 cuillères à soupe de farine",
+      "thym",
+      "laurier",
+      "persil",
+      "gousse d'ail",
+      "poivre",
+      "sel"
+    ],
+    "nutrients": {}
+  },
+  {
+    "titre": "Véritable moelleux au chocolat",
+    "instructions": "Préchauffer le four à 180°C (thermostat 6). Faire fondre le chocolat dans une casserole.\nHors du feu, ajouter le beurre,\nla farine et la levure.\nFouetter les jaunes d’oeuf avec le sucre\net un peu d'eau pour faire mousser\npuis l'ajouter à la préparation chocolatée.\nBattre les blancs en neige et les incorporer dans la casserole tout doucement.\nVerser le tout dans un moule beurré à bords hauts\net enfourner pendant environ 35 minutes.\nOn peut ajouter du sucre glace ou du chocolat fondu, pour décorer le dessus du gâteau.\nDéguster",
+    "ingredients": [
+      "125 g de farine",
+      "125 g de beurre doux",
+      "250 g de sucre semoule",
+      "200 g de chocolat noir",
+      "4 oeufs",
+      "1/2 sachets de levure"
+    ],
+    "nutrients": {}
+  },
+  {
+    "titre": "Les vrais quenelles natures lyonnaises",
+    "instructions": "Faire chauffer un verre, d'eau avec le beurre et un peu de sel.\nQuand le beurre est fondu, ajouter la farine, et cuire 10 min à feu doux en remuant sans cesse.\nHors du feu, ajouter le gruyère puis les oeufs et la muscade quand le mélange a un peu refroidi.\nFormer des boudins sur une surface farinée et les mettre au frais une bonne demi-heure pour que les quenelles se tiennent bien.\nMettre les quenelles dans une marmite 30 à 40 min, à feu très doux, avec une sauce de votre choix (il faut que la sauce recouvre quasiment les quenelles).",
+    "ingredients": [
+      "100 g de beurre",
+      "120 g de farine",
+      "100 g de gruyère râpé",
+      "3 oeufs",
+      "muscade râpée",
+      "20 cl d'eau"
+    ],
+    "nutrients": {}
+  },
+  {
+    "titre": "Tian provençal",
+    "instructions": "Préchauffez le four à 180°C (thermostat 6).\nBeurrez un plat ovale allant au four.\nÉpluchez les gousses d'ail et l'oignon.\nCoupez l'oignon et une seule des 5 gousses d'ail en petits morceaux.\nEnfournez 5 à 10 min, l'oignon en morceau et les morceaux d'une seule gousse d'ail. Puis laissez un peu refroidir le plat.\nLavez les légumes, puis coupez-les en rondelles de même épaisseur et si possible de même diamètre.\nDisposez-les dans le plat, sur l'ail et l'oignon revenus au four, debout par rangée successive : tomate, courgette, tomate, aubergine et ainsi de suite; intercalez les 5 gousses d'ail restante.\nSalez, poivrez, arrosez d'huile d'olive, et saupoudrez d'herbes de Provence.\nEnfourner pendant 1 h 30.",
+    "ingredients": [
+      "400 g d'aubergine",
+      "500 g de tomate",
+      "300 g de courgette",
+      "1 oignons",
+      "6 gousses d'ail",
+      "50 g de beurre",
+      "1 cuillères d'huile d'olive",
+      "herbes de Provence",
+      "poivre",
+      "sel"
+    ],
+    "nutrients": {}
+  },
+  {
+    "titre": "Crème brûlée",
+    "instructions": "Faire bouillir le lait, ajouter la crème et le sucre hors du feu. Ajouter les jaunes d'oeufs, mettre à chauffer tout doucement (surtout ne pas bouillir), puis verser dans de petits plats individuels.\nMettre au four au bain marie et laisser cuire doucement à 180°C environ 50 minutes.\nLaisser refroidir puis mettre dessus du sucre roux et le brûler avec un petit chalumeau de cuisine.",
+    "ingredients": [
+      "6 jaunes d'oeuf",
+      "40 cl de crème liquide",
+      "25 cl de lait",
+      "200 g de sucre"
+    ],
+    "nutrients": {}
+  },
+  {
+    "titre": "Tourtons des Alpes (ou de Champsaur)",
+    "instructions": "Pétrir farine, oeufs, un peu d'huile, beurre fondu, sel pour obtenir une pâte ni trop molle (ajouter farine) ni trop dure (ajouter eau). Laisser reposer la pâte en boule.\nFaire revenir à feu doux les blancs de poireaux avec les échalotes et du beurre. Réserver dès que cela blondi.\nEcraser les pommes de terre en purée, saler, poivrer, ajouter à votre goût un peu d'huile. Ajouter les blancs de poireaux et les échalotes. Emietter par dessus la tomme fraîche et pétrir le tout pour en faire une farce homogène.\nEtaler la pâte au rouleau (assez finement). Découper-la en carrés de 6 ou 7 cm de côté, disposer sur la moitié des carrés de la farce puis couvrir avec un autre carré de pâte. Bien souder les bords, au besoin en les humectant légèrement.\nFaire rissoler des deux côtés à grande friture. L'huile ne doit pas être trop chaude.\nServir immédiatement.",
+    "ingredients": [
+      "300 g de farine",
+      "3 oeufs",
+      "50 g de beurre fondu",
+      "3 cuillères à soupe d'huile",
+      "50 g de tomme fraîche (ou de carré Gervais)",
+      "750 g de pomme de terre cuites à l'eau",
+      "150 g de blanc de poireau en fines lamelles",
+      "25 g d'échalote (ou d'oignons)",
+      "poivre",
+      "sel"
+    ],
+    "nutrients": {}
+  },
+  {
+    "titre": "Steak tartare",
+    "instructions": "Couper la viande au couteau (en brunoise).\nDans un bol, mélanger le jaune d’œuf, la moutarde de Dijon, l'oignon, les câpres, la Worcestershire sauce, le ketchup, le tabasco, le sel et le poivre. Ajouter l'huile d'olive en remuant avec le fouet.\nAjouter la viande à la sauce ainsi que le persil. Rectifier l'assaisonnement.\nRéfrigérer ou servir immédiatement.",
+    "ingredients": [
+      "250 g de boeuf frais (tête)",
+      "1 jaunes d'oeuf",
+      "1 cuillères à café de moutarde de Dijon",
+      "1 cuillères à soupe d'oignon haché",
+      "1 cuillères à soupe de câpres hachées",
+      "1 cuillères à café de sauce worcestershire",
+      "1 cuillères à soupe de ketchup",
+      "3 gouttes de tabasco",
+      "2 tours de moulin de poivre au goût",
+      "2 pincées de sel",
+      "2 cuillères à soupe d'huile d'olive",
+      "1 cuillères à café de persil plat haché"
+    ],
+    "nutrients": {}
+  },
+  {
+    "titre": "Financiers",
+    "instructions": "Préchauffe le four à 200°C (thermostat 6-7).\nBeurre le moule à financiers (ou moule à madeleines, si tu n'as pas de moule à financiers).\nMélange dans un récipient la poudre d'amandes, le sucre, la farine fluide et la vanille.\nMonte les blancs en neige ferme avec une pincée de sel et ajoute-le au mélange précédent.\nFais fondre le beurre dans une casserole et ajoute-le à la pâte.\nVerse dans le moule et mets au four 15 à 20 min. Demande à un adulte de démouler les financiers à la sortie du four.\nBon appétit !",
+    "ingredients": [
+      "50 g d'amandes en poudre",
+      "50 g de farine fluide",
+      "150 g de sucre",
+      "75 g de beurre",
+      "4 blancs d'oeuf",
+      "1/2 cuillères à café d'extrait de vanille",
+      "1 petites pincées de sel"
+    ],
+    "nutrients": {}
+  },
+  {
+    "titre": "Gougères au fromage",
+    "instructions": "Préchauffez le four à 200°C (th 6-7).\nDans une casserole, portez 25 cl d'eau à ébullition, avec le beurre coupé en morceaux + 1 cuillère à café de sel.\nHors du feu, ajoutez la farine d'un coup.\nMélangez vivement, et faites dessécher pendant 1 min sur feu doux.\nLaissez tiédir quelques instants, et incorporez les oeufs un par un en mélangeant bien.\nAjoutez le gruyère râpé, la muscade, le sel et le poivre.\nDéposez cette pâte à l'aide de 2 cuillères à café, en petits tas séparés, sur une plaque beurrée.\nVous pouvez dorer les petites gougères avec un jaune d'oeuf, à l'aide d'un pinceau.\nEnfournez 25 min en surveillant.\nC'est prêt",
+    "ingredients": [
+      "4 oeufs + 1 jaune (pas obligé)",
+      "150 g de gruyère râpé",
+      "150 g de farine tamisée",
+      "80 g de beurre + 15 g pour la plaque",
+      "1 pincées de muscade râpée",
+      "sel",
+      "poivre"
+    ],
+    "nutrients": {}
+  },
+  {
+    "titre": "Moules au roquefort",
+    "instructions": "Nettoyer les moules (certainement l'opération la plus longue de la recette). Faire fondre une bonne noix de beurre dans une casserole et y faire suer les échalotes finement hachées.\nAjouter la crème et le roquefort bien écrasé. Remuer jusqu'à obtenir une pâte bien lisse.\nAjouter du persil et assaisonner, maintenir à feu moyen.\nPendant ce temps, faire chauffer le vin blanc dans une cocotte et incorporer les moules. Laisser les moules s'ouvrir à couvert pendant environ 5 minutes.\nQuand elles sont ouvertes, 2 possibilités: soit vous égouttez les moules et vous les arrosez avec la sauce, ce qui est plus onctueux, soit vous conservez le jus de cuisson et vous ajouter la sauce, c'est également très bon mais la sauce est plus liquide. Laisser mijoter 5 minutes.\nDéguster sans tarder.",
+    "ingredients": [
+      "1.5 kg de moules",
+      "3 échalotes",
+      "25 cl de vin blanc sec",
+      "50 cl de crème fraîche épaisse",
+      "125 g de roquefort",
+      "beurre demi-sel",
+      "persil",
+      "poivre",
+      "sel"
+    ],
+    "nutrients": {}
+  },
+  {
+    "titre": "Tarte à la tomate et à la moutarde",
+    "instructions": "Précuire la pâte (percée avec une fourchette) 5 min à 450 degrés farenheit (230°C).\nPendant ce temps, couper les tomates en rondelles de 3 mm d'épaisseur.\nSortir la pâte précuite du four. badigeonner le fond de moutarde de Dijon (la classique fait l'affaire) ...en mettre suffisamment pour que le fond en pâte ne se voit plus.\nDisposer les tranches de tomates. faire plusieurs épaisseurs.\nsaupoudrer d'herbes de Provence + 2 pincées de sel.\n1 cuillère à soupe d'huile d'olive.\nEnfourner pour 20 min à 450 farenheit puis couvrir avec papier d'aluminium pour 20 min supplémentaires. Après ces 20 min, enlever le papier aluminium et laisser cuire encore 5 min porte du four ouverte. Délicieux avec une salade verte.",
+    "ingredients": [
+      "1 pâtes brisées",
+      "4 tomates bien mûres",
+      "herbes de Provence + sel",
+      "moutarde de Dijon",
+      "huile d'olive"
+    ],
+    "nutrients": {}
+  },
+  {
+    "titre": "Andouillette sauce moutarde",
+    "instructions": "Faire revenir les andouillettes dans un peu de beurre avec l'échalote à feu doux pendant 15 à 20 mn.\nLorsque les andouillettes sont dorées, les recouvrir 5 mn.\nDans un bol, mélanger la crème fraîche et la moutarde.\nRajouter ce mélange aux andouillettes, et faire cuire pendant encore 5 mn à feu très doux.",
+    "ingredients": [
+      "4 andouillette",
+      "20 cl de crème de fraîche",
+      "1 bonnes cuillères à soupe de moutarde",
+      "1 échalotes"
+    ],
+    "nutrients": {}
+  },
+  {
+    "titre": "Courgette farcie",
+    "instructions": "Laver la courgette, en couper les extrémités, puis la couper en deux dans le sens de la longueur.\nEnlever les pépins du centre avec une cuillère, puis creuser la courgette. Récupérer la chair, la détailler en cubes.\nFaire revenir la chair quelques instants dans une poele avec un peu d'huile d'olive, saler, poivrer.\nDans une casserole, faire fondre l'oignon haché. Lorsqu'il est blond, ajouter le haché de bœuf, le laisser cuire (à couvert) en remuant souvent pour bien défaire la viande.\nAjouter la boite de tomates pelées, couper grossièrement les tomates avec un couteau dans la casserole, ajouter 2 morceaux de sucre, une poignée d'herbes de Provence, le cube de bouillon de poule et l'ail pressé.\nLaisser mijoter le tout environ 15 min, saler, poivrer. La sauce doit être épaisse.\nAjouter les dés de courgettes. Beurrer un plat allant au four, y déposer les courgettes côte à côte, les remplir de la préparation viande + cubes de courgettes.\nParsemer de gruyère râpé, mettre au four moyen pendant 30 min.",
+    "ingredients": [
+      "1 courgettes",
+      "1 oignons",
+      "2 ail",
+      "250 g de boeuf haché",
+      "480 g de tomates pelées",
+      "1 filets d'huile d'olive",
+      "1 cuillères à café de herbes de Provence",
+      "2 carrés de sucre",
+      "1 cubes de bouillon de poule",
+      "1 pincées de sel",
+      "1 pincées de poivre",
+      "3 pincées de gruyère râpé"
+    ],
+    "nutrients": {}
+  },
+  {
+    "titre": "Pancakes faciles et rapides",
+    "instructions": "Battre grossièrement l'oeuf et le sucre dans un saladier.\nY rajouter le beurre fondu ou l'huile.\nMélanger à part la farine et la levure, puis en mélanger la moitié avec la préparation.\nDélayer progressivement avec le lait tout en rajoutant l'autre moitié de farine petit à petit (cela évitera de créer des grumeaux).\nAucun temps de repos n'est nécessaire, si ce n'est juste le temps de faire chauffer votre poêle à feu moyen. Huilez ou beurrez la poêle à l'aide de papier essuie-tout.\nA l'aide d'une petite louche ou d'une grosse cuillère à sauce, déposer des \"ronds\" dans la poêle.\nLorsque les bulles apparaissent et éclatent, retourner les pancakes et ne pas les laisser plus d'une min sur l'autre face.",
+    "ingredients": [
+      "1 oeufs",
+      "1 cuillères à soupe de sucre blanc",
+      "1 cuillères à soupe d'huile ou de beurre fondu",
+      "150 g de farine",
+      "1 bonnes cuillères à café de levure",
+      "200 ml de lait"
+    ],
+    "nutrients": {}
+  },
+  {
+    "titre": "Moules marinières",
+    "instructions": "Hachez les échalotes.\nGrattez bien et lavez les moules. Mettez-les dans une cocotte avec 1 noix de beurre, les échalotes hachées et le vin blanc.\nFaites-les ouvrir dans la cocotte couverte, sur feu vif pendant quelques minutes. Mélangez 2 ou 3 fois pendant la cuisson.\nDès qu'elles sont ouvertes, retirez les moules de la cocotte en conservant le jus de la cuisson. Déposez-les dans 1 plat creux et gardez-les au chaud.\nRemettez le jus sur le feu. Malaxez avec 1 fourchette 1 cuillerée à café de farine avec le même volume de beurre ou de margarine. Incorporez le tout au jus de la cuisson des moules sur le feu. Laissez bouillir un instant. Salez poivrez.\nVersez sur les moules. Saupoudrez de persil haché et servez.",
+    "ingredients": [
+      "4 l de moules",
+      "30 g de beurre ou de margarine",
+      "2 échalotes",
+      "15 cl de vin blanc sec",
+      "1 cuillères à café rases de farine",
+      "persil",
+      "sel",
+      "poivre"
+    ],
+    "nutrients": {}
+  },
+  {
+    "titre": "Gougères faciles",
+    "instructions": "Prévoir une casserole, une spatule, une plaque beurrée et préchauffer le four à 210°C (thermostat 7). Faire une pâte à choux en faisant fondre dans une casserole le beurre, l'eau, le sel. Porter à ébullition.\nRetirer du feu et ajouter la farine d'un seul coup en travaillant vivement à la spatule. Remettre sur le feu et dessécher la pâte jusqu'à ce qu'elle se détache de la casserole.\nRetirer du feu, laissez tiédir. Incorporer les 4 oeufs, un à un, en mélangeant bien à la spatule.\nAjouter le gruyère râpé.\nDisposer en petites boules sur une plaque beurrée.\nCuire jusqu'à ce que ça ait gonflé et que ce soit un peu doré (environ 25 min).",
+    "ingredients": [
+      "1 pincées de sel",
+      "75 g de gruyère râpé",
+      "75 g de beurre",
+      "150 g de farine",
+      "25 cl d'eau",
+      "4 oeufs"
+    ],
+    "nutrients": {}
+  },
+  {
+    "titre": "Madeleines faciles",
+    "instructions": "Préchauffer le four à 240°C (thermostat 8). Faire fondre le beurre dans une casserole à feu doux, réserver.\nMélanger les oeufs avec le sucre, jusqu'à ce que le mélange blanchisse.\nAjouter ensuite la fleur d'oranger et 40 g de lait.\nAjouter la farine et la levure chimique.\nC'est ensuite le tour du beurre et le restant du lait; laisser reposer 15 min.\nBeurrer les moules à madeleines et verser la préparation dedans (mais pas jusqu'en haut, les madeleines vont gonfler !).\nEnfourner à 240°C (thermostat 8), et baisser au bout de 5 min à 200°C (thermostat 6-7); laisser encore 10 min. Surveiller bien la cuisson !\nDémouler dès la sortie du four.",
+    "ingredients": [
+      "3 oeufs",
+      "150 g de sucre",
+      "200 g de farine",
+      "2 cuillères à soupe d'eau de fleur d'oranger",
+      "8 g de levure chimique",
+      "100 g de beurre fondu",
+      "50 g de lait"
+    ],
+    "nutrients": {}
+  },
+  {
+    "titre": "Coleslaw facile",
+    "instructions": "Râper le chou et la carotte dans un saladier.\nMélanger fromage blanc et mayonnaise, puis ajouter vinaigre, sel, sucre et ciboulette.\nAjouter au mélange chou / carottes et mêler intimement.\nMettre au frais et déguster.",
+    "ingredients": [
+      "400 g de chou blanc",
+      "2 carottes",
+      "100 g de mayonnaise",
+      "100 g de fromage blanc",
+      "1 grosses cuillères à soupe de ciboulette",
+      "1.5 cuillères à soupe de vinaigre de cidre",
+      "sucre et sel au goût de chacun"
+    ],
+    "nutrients": {}
+  },
+  {
+    "titre": "La meilleure recette de pâte à crêpes",
+    "instructions": "Mettre la farine dans une terrine et former un puits.\nY déposer les oeufs entiers, le sucre, l'huile et le beurre.\nMélanger délicatement avec un fouet en ajoutant au fur et à mesure le lait. La pâte ainsi obtenue doit avoir une consistance d'un liquide légèrement épais.\nParfumer de rhum.\nFaire chauffer une poêle antiadhésive et la huiler très légèrement à l'aide d'un papier Essuie-tout. Y verser une louche de pâte, la répartir dans la poêle puis attendre qu'elle soit cuite d'un côté avant de la retourner. Cuire ainsi toutes les crêpes à feu doux.",
+    "ingredients": [
+      "300 g de farine",
+      "3 oeufs entiers",
+      "3 cuillères à soupe de sucre",
+      "2 cuillères à soupe d'huile",
+      "50 g de beurre fondu",
+      "60 cl de lait",
+      "5 cl de rhum"
+    ],
+    "nutrients": {}
+  },
+  {
+    "titre": "Rougail saucisse",
+    "instructions": "Piquez les saucisses et mettez les dans l'eau bouillante pendant 10 mn, dans la même marmite qui vous servira à la préparation du plat afin de garder les saveurs.\nVidez la marmite. Réservez les saucisses. Faites-y chauffer de l'huile d'olive.\nFaites revenir les oignons émincés et l'ail écrasé sans qu'ils soient trop colorés.\nCoupez les saucisses en troncons de 1,5 cm puis faites les revenir avec les oignons. Au bout de 5 mn, ajoutez les tomates coupées en petits morceaux et les aromates (le piment en morceaux).\nMélangez le tout puis laisser mijoter sur feu doux en ôtant le couvercle de temps à autre pour éliminer l'excès d'eau.\nServez avec du riz thai",
+    "ingredients": [
+      "6 saucisses fumées (genre diots de Savoie) ou 4 grosses saucisses fumées type Montbéliard",
+      "4 tomates (en conserve hors saison)",
+      "4 oignons",
+      "6 gousses d'ail",
+      "thym",
+      "laurier",
+      "poivre",
+      "sel",
+      "1 cuillères à café de curcuma (safran)",
+      "1 piments oiseau (facultatif)",
+      "huile d'olive"
+    ],
+    "nutrients": {}
+  }
+]

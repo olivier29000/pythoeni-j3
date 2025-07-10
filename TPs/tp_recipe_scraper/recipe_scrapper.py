@@ -10,7 +10,7 @@
 # PS : commence ton TP avec une ou deux urls pour ensuite faire le processus sur les 100 urls présentes
 
 from recipe_scrapers import scrape_me
-
+"""
 urls = ['https://www.allrecipes.com/recipe/21014/good-old-fashioned-pancakes/'
     , 'https://www.allrecipes.com/recipe/22162/uglies/', 'https://www.allrecipes.com/recipe/140286/homemade-dog-food/',
         'https://www.allrecipes.com/the-10-minute-recipe-i-make-once-a-week-11742451',
@@ -106,7 +106,7 @@ urls = ['https://www.allrecipes.com/recipe/21014/good-old-fashioned-pancakes/'
         'https://www.allrecipes.com/recipe/258879/kewa-datshi-bhutanese-dish/',
         'https://www.allrecipes.com/recipe/10402/the-best-rolled-sugar-cookies/',
         'https://www.allrecipes.com/tang-pie-recipe-11759885']
-
+"""
 """
         try:
             scraper = scrape_me(url)
@@ -121,3 +121,31 @@ urls = ['https://www.allrecipes.com/recipe/21014/good-old-fashioned-pancakes/'
             print(f"❌  Erreur sur {url} : {e}")
 
 """
+
+import json
+from recipe_scrapers import scrape_me
+
+urls = ['https://www.marmiton.org/recettes/menu-de-la-semaine.aspx',
+        'https://www.marmiton.org/recettes/recette_carottes-vichy_17717.aspx'
+    , 'https://www.marmiton.org/recettes/selection_asie.aspx', 'https://www.marmiton.org/recettes/selection_cuisine_corse.aspx', 'https://www.marmiton.org/recettes/selection_alsace.aspx', 'https://www.marmiton.org/recettes/selection_afrique.aspx', 'https://www.marmiton.org/recettes/recette_mille-feuilles_33004.aspx', 'https://www.marmiton.org/recettes/recette_gratin-dauphinois_13809.aspx', 'https://www.marmiton.org/recettes/recette_bugnes_16033.aspx', 'https://www.marmiton.org/recettes/recette_cookies-maison_86989.aspx', 'https://www.marmiton.org/recettes/recette_coq-au-vin-maison_25755.aspx', 'https://www.marmiton.org/recettes/recette_tartiflette-facile_15733.aspx', 'https://www.marmiton.org/recettes/selection_recettes_bretonnes.aspx', 'https://www.marmiton.org/recettes/recette_spaghetti-bolognaise_19840.aspx', 'https://www.marmiton.org/recettes/recette_la-poule-au-riz-de-la-mere-michele_36729.aspx', 'https://www.marmiton.org/recettes/recette_cacasse-a-cul-nu-ardennes_18541.aspx', 'https://www.marmiton.org/recettes/recette_veritable-moelleux-au-chocolat_12825.aspx', 'https://www.marmiton.org/recettes/recette_les-vrais-quenelles-natures-lyonnaises_46374.aspx', 'https://www.marmiton.org/recettes/recette_tian-provencal_36194.aspx', 'https://www.marmiton.org/recettes/recette_creme-brulee_11491.aspx', 'https://www.marmiton.org/recettes/recette_tourtons-des-alpes-ou-de-champsaur_27676.aspx', 'https://www.marmiton.org/recettes/recette_steak-tartare_18121.aspx', 'https://www.marmiton.org/recettes/recette_financiers_13690.aspx', 'https://www.marmiton.org/recettes/recette_gougeres-au-fromage_20095.aspx', 'https://www.marmiton.org/recettes/selection_soupe.aspx', 'https://www.marmiton.org/recettes/selection_sud-ouest.aspx', 'https://www.marmiton.org/recettes/recette_moules-au-roquefort_36429.aspx', 'https://www.marmiton.org/recettes/recette_tarte-a-la-tomate-et-a-la-moutarde_20978.aspx', 'https://www.marmiton.org/recettes/selection_hiver.aspx', 'https://www.marmiton.org/recettes/recette_andouillette-sauce-moutarde_19759.aspx', 'https://www.marmiton.org/recettes/recette_courgette-farcie_11173.aspx', 'https://www.marmiton.org/recettes/recette_pancakes-faciles-et-rapides_81518.aspx', 'https://www.marmiton.org/recettes/top-internautes-dessert.aspx', 'https://www.marmiton.org/recettes/selections.aspx', 'https://www.marmiton.org/recettes/selection_indienne.aspx', 'https://www.marmiton.org/recettes/recette_moules-marinieres_13214.aspx', 'https://www.marmiton.org/recettes/recette_gougeres-faciles_13241.aspx', 'https://www.marmiton.org/recettes/recette_madeleines-faciles_17700.aspx', 'https://www.marmiton.org/recettes/recette_coleslaw-facile_28532.aspx', 'https://www.marmiton.org/recettes/recette_pate-a-crepes_12372.aspx', 'https://www.marmiton.org/recettes/recette_rougail-saucisse_22851.aspx', 'https://www.marmiton.org/recettes/recette_mayonnaise-maison_26184.aspx']
+
+
+recipes = []
+
+for url in urls:
+    try:
+        scraper = scrape_me(url)
+        recipe_data = {
+            "titre": scraper.title(),
+            "instructions": scraper.instructions(),
+            "ingredients": scraper.ingredients(),
+            "nutrients": scraper.nutrients()
+        }
+        recipes.append(recipe_data)
+        print(f"✔️ {recipe_data['titre']} ajouté")
+    except Exception as e:
+        print(f"❌ Erreur sur {url} : {e}")
+
+# Sauvegarde dans un fichier JSON propre
+with open("recipes.txt", "w", encoding="utf-8") as f:
+    json.dump(recipes, f, ensure_ascii=False, indent=2)
